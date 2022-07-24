@@ -141,6 +141,16 @@
 
 ##
 
+<p align="center"><img src="https://cdn.discordapp.com/attachments/916289981650194432/1000807389282435183/unknown.png"/></p>
+
+  - `Spawn Inside` Faz com que o usuário vá para dentro do veículo spawnado
+  - `Max Out Performance` Tuna o veículo no máximo (Motor, Blindagem, Transmissão, Freio, Transmissão)
+  - `Max Out` Coloca todos os acessórios do veículo no máximo
+  - `Set Plate` Altera a placa do veículo
+  - `Spawn` Spawna o veículo selecionado
+
+##
+
 <p align="center"><img src="https://cdn.discordapp.com/attachments/916289981650194432/1000602607884185600/unknown.png"/></p>
 
   - `Unload` Desinjeta o Cheat do Jogo

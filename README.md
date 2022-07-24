@@ -59,4 +59,9 @@
   - `Export From Clipboard` Gera um código Base64 da sua configuração que pode ser utilizado por outros usuários
   - `Refresh` Atualiza a lista de configurações
 
+<p align="center"><img src="https://cdn.discordapp.com/attachments/916289981650194432/1000605092149477416/unknown.png"/></p>
+
+  - `Add Closest Person as Friend` Adiciona a pessoa mais próxima à lista de pessoas que não serão afetadas pelo aimbot
+  - `Add New Group` Cria um novo grupo onde é possível organizar todas as pessoas
+
 <center>Feito com ❤️ por xLucazzz</center>

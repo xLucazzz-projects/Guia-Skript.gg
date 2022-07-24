@@ -94,6 +94,15 @@
   - `Color` Muda a cor do WallHack dos locais
   - `Transparência` Tipo de transparência do Wallhack
   - `Render Distance` Distância que o local precisa estar para o Wallhack funcionar
+  - 
+##
+
+<p align="center"><img src="https://cdn.discordapp.com/attachments/916289981650194432/1000812148471124099/unknown.png"/></p>
+
+  - `Object ESP Enabled` Ativa o Wallhack de objetos
+  - `Select Object Key` Seleciona o objeto mais próximo da mira ao pressionar a tecla definida
+  - `Create New` Cria uma nova marcação para o objeto selecionado
+
 ##
 
 <p align="center"><img src="https://cdn.discordapp.com/attachments/916289981650194432/1000799126356758608/unknown.png"/></p>

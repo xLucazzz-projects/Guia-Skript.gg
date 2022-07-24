@@ -1,6 +1,5 @@
 # Skript.gg - GTA V
-<img src="https://cdn.discordapp.com/emojis/985578817181589504.png"/>
-<img src='https://cdn.discordapp.com/icons/946329417968386098/a_f1afce9120ca48c1270906817b55892d.gif'/>
+<img src="https://cdn.discordapp.com/emojis/985578817181589504.png"/><img src='https://cdn.discordapp.com/icons/946329417968386098/a_f1afce9120ca48c1270906817b55892d.gif'/>
 
 ## Como Injetar | [Vídeo Tutorial](https://www.youtube.com/watch?v=TYKgQjafhpE)
 

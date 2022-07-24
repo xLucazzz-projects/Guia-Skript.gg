@@ -71,7 +71,7 @@
 
 ##
 
-<p align="center"><img src="https://cdn.discordapp.com/attachments/916289981650194432/1000810447362072688/unknown.png"/></p>
+<p align="center"><img src="https://cdn.discordapp.com/attachments/916289981650194432/1000813281059012608/unknown.png"/></p>
 
   - `Marker` Cria uma circunferência nos veículos da categoria selecionada
   - `Healthbar` Cria uma barra de vida nos veículos da categoria selecionada

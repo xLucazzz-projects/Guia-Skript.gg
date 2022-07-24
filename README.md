@@ -42,6 +42,26 @@
   - `Miss Chance` Chance de erro do SilentAim e do MagicBullet
   - `UberZoom` Dá zoom automático em usuários que estão longe
 
+<p align="center"><img src="https://cdn.discordapp.com/attachments/916289981650194432/1000608835578372187/unknown.png"/></p>
+
+  - `True Godmode` Faz com que o veículo fique indestrutível 
+  - `Demi GodMode` Repara o veículo lentamente
+  - `Force Engine On` Faz com que o veículo sempre fique com o motor ligado
+  - `SeatBelt` Faz com que o player nunca saia do veículo
+  - `Unlock Vehicle` Destranca o veículo mais próximo
+  - `Repair Vehicle` Repara o veículo mais próximo
+  - `Extra Grip` Aumenta a aderência das rodas do veículo
+  - `Extra Downforce` Aumenta o freio do veículo
+  - `Boost` Aumenta a velocidade do veículo
+  - `Rocket Boost` Dá um ultra boost ao pressionar a tecla "E"
+  - `Jumping` Faz com o que o carro pule ao pressionar a tecla "E"
+  - `Ramming` Aumenta o dano ao colidir (?)
+  - `Red Interior Light` Adiciona uma luz vermelha ao interior do veículo
+  - `Extra Torque` Aumenta o torque do veículo
+  - `Warp Into Vehicle` Teleporta o jogador ao veículo mais próximo
+  - `Spoof Vehicle Velocity` Altera a velocidade do veículo para enganar scripts
+  - `No Collision` Faz com que o veículo não colida com objetos
+
 <p align="center"><img src="https://cdn.discordapp.com/attachments/916289981650194432/1000602607884185600/unknown.png"/></p>
 
   - `Unload` Desinjeta o Cheat do Jogo
@@ -63,6 +83,7 @@
 
   - `Add Closest Person as Friend` Adiciona a pessoa mais próxima à lista de pessoas que não serão afetadas pelo aimbot
   - `Add New Group` Cria um novo grupo onde é possível organizar todas as pessoas
+
 
 ##
 

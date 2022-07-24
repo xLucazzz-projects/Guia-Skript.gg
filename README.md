@@ -129,6 +129,18 @@
 
 ##
 
+<p align="center"><img src="https://cdn.discordapp.com/attachments/916289981650194432/1000805994714116207/unknown.png"/></p>
+
+  - `Warp Into Focused Vehicle` Teleporta para o veículo selecionado ao pressionar a tecla definida
+  - `Physgun` Move o veículo selecionado para onde sua mira estiver
+  - `Physgun Unoccuped Only` Faz com que só funcione em veículos sem motoristas
+  - `Teleport Cars to Physgun` Teleporta todos os veículos próximos para o veículo selecionado
+  - `Fling Vehicles` Faz o veículo selecionado voar
+  - `Target Vehicle` Seleciona o veículo próximo à mira ao pressionar a tecla definida
+  - `Open Quick Access Menu Key` Abre o menu de ações para realizar no veículo selecionado
+
+##
+
 <p align="center"><img src="https://cdn.discordapp.com/attachments/916289981650194432/1000602607884185600/unknown.png"/></p>
 
   - `Unload` Desinjeta o Cheat do Jogo

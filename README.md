@@ -3,7 +3,7 @@
 
 ## Como Injetar | [Vídeo Tutorial](https://www.youtube.com/watch?v=TYKgQjafhpE)
 
-1º - Faça o Download do Loader - [Clique Aqui Para Baixar] (https://skript.gg)
+1º - Faça o Download do Loader - [Clique Aqui Para Baixar](https://skript.gg)
 
 2º - Formate um Dispositivo USB (Pendrive) em FAT-32
 

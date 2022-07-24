@@ -64,4 +64,6 @@
   - `Add Closest Person as Friend` Adiciona a pessoa mais próxima à lista de pessoas que não serão afetadas pelo aimbot
   - `Add New Group` Cria um novo grupo onde é possível organizar todas as pessoas
 
-<center>Feito com ❤️ por xLucazzz</center>
+##
+
+<p align="center">Feito com ❤️ por xLucazzz</p>

@@ -3,9 +3,8 @@
 
 ## Informações
 
-- [x] Windows 10
 - [x] Necessita de Pendrive USB
-- [!] Não suporta Windows 11 & GGoS/ReviOS
+- [x] Não suporta Windows 11 & GGoS/ReviOS
 
 ## Como Injetar | [Vídeo Tutorial](https://www.youtube.com/watch?v=TYKgQjafhpE)
 

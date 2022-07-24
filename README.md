@@ -42,4 +42,11 @@
   - `Miss Chance`: Chance de erro do SilentAim e do MagicBullet
   - `UberZoom`: Dá zoom automático em usuários que estão longe
 
+<p align="center"><img src="https://cdn.discordapp.com/attachments/916289981650194432/1000602607884185600/unknown.png"/></p>
+
+    - `Unload`: Desinjeta o Cheat do Jogo
+    - `CrossHair`: Cria uma mira no centro da tela
+    - `Show Field of View`: Mostra a área em que o AimBot atua
+    - `Dark Theme`: Ativa o modo escuro
+
 <center>Feito com ❤️ por xLucazzz</center>

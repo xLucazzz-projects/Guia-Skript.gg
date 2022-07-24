@@ -92,6 +92,21 @@
 
 ##
 
+<p align="center"><img src="https://cdn.discordapp.com/attachments/916289981650194432/1000804459028426903/unknown.png"/></p>
+
+  - `Teleport to Marker` Teleporta para o local selecionado (Ex: FBI Tower, Maze Bank, etc) 
+  - `Teleport do Waypoint` Teleporta para o lugar marcado no mapa
+  - `Teleport to Objective` Teleporta para o ponto da missão 
+  - `Slow Teleport` Faz com que o teleporte seja lento para enganar AntiCheat's
+  - `Location Spoofing` Altera a localização do usuário para enganar AntiCheat's
+  - `Create New Marker` Cria um novo ponto do mapa na lista 
+  - `Rename Marker` Muda o nome de um ponto do mapa 
+  - `Delete Marker` Excluir um ponto do mapa 
+  - `Move Waypoint To Marker` Troca a marcação do mapa para a localização do ponto selecionado 
+  - `Point Harvest` Mostra os pontos de interesses próximos 
+
+##
+
 <p align="center"><img src="https://cdn.discordapp.com/attachments/916289981650194432/1000608835578372187/unknown.png"/></p>
 
   - `True Godmode` Faz com que o veículo fique indestrutível 

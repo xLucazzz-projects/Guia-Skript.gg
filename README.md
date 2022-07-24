@@ -1,6 +1,7 @@
 # Skript.gg - GTA V
-
+<p align="center">
 <img src="https://cdn.discordapp.com/emojis/985578817181589504.png"/>
+</p>
 
 ## Como Injetar | [Vídeo Tutorial](https://www.youtube.com/watch?v=TYKgQjafhpE)
 

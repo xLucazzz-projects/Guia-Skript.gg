@@ -71,6 +71,21 @@
 
 ##
 
+<p align="center"><img src="https://cdn.discordapp.com/attachments/916289981650194432/1000810447362072688/unknown.png"/></p>
+
+  - `Marker` Cria uma circunferência nos veículos da categoria selecionada
+  - `Healthbar` Cria uma barra de vida nos veículos da categoria selecionada
+  - `Name` Mostra o nome dos veículos
+  - `License Plate` Mostra a placa do veículo
+  - `Distance` Mostra a distância entre o veículo e o usuário
+  - `Lock State` Mostra se o veículo está trancada ou destrancado
+  - `Only Show Occupied` Mostra apenas veículos com jogadores dentro
+  - `Color` Muda a cor do WallHack de veículos
+  - `Transparência` Tipo de transparência do Wallhack
+  - `Render Distance` Distância que o veículo precisa estar para o Wallhack funcionar
+
+##
+
 <p align="center"><img src="https://cdn.discordapp.com/attachments/916289981650194432/1000799126356758608/unknown.png"/></p>
 
   - `Anti Headshot` Faz com que o usuário tome diversos tiros na cabeça sem morrer 

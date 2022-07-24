@@ -80,6 +80,18 @@
 
 ##
 
+<p align="center"><img src="https://cdn.discordapp.com/attachments/916289981650194432/1000802627640107128/unknown.png"/></p>
+
+  - `Infinite Ammo` Ativa munição infinita para todas as armas 
+  - `Bottomless Clip` Faz com que o número de munições fique fixo (não diminui)
+  - `No Spread` Faz com que os tiros não espalhem 
+  - `No Recoil` Remove o recuo das armas 
+  - `Damage Modifier` Altera o dano das armas 
+  - `Rapidfire` Faz com que as armas disparem extremamente mais rápido 
+  - `Refill Ammo` Adiciona munição para a arma equipada  
+
+##
+
 <p align="center"><img src="https://cdn.discordapp.com/attachments/916289981650194432/1000608835578372187/unknown.png"/></p>
 
   - `True Godmode` Faz com que o veículo fique indestrutível 

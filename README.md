@@ -7,13 +7,13 @@
 
 2º - Formate um Dispositivo USB (Pendrive) em FAT-32
 
-<img src='https://cdn.discordapp.com/attachments/916289981650194432/1000595210054684692/Sem_titulo.png'/>
+<p align="center"><img src='https://cdn.discordapp.com/attachments/916289981650194432/1000595210054684692/Sem_titulo.png'/></p>
 
 3º - Execute o Loader Dentro do Pendrive
 
 4º - Efetue o Loguin com sua key
 
-<img src='https://cdn.discordapp.com/attachments/916289981650194432/1000602108019622059/unknown.png'/>
+<p align="center"><img src='https://cdn.discordapp.com/attachments/916289981650194432/1000602108019622059/unknown.png'/></p>
 
 
 ## Funções

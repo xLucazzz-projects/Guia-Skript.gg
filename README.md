@@ -13,6 +13,8 @@
 
 4º - Efetue o Loguin com sua key
 
+<img src='https://cdn.discordapp.com/attachments/916289981650194432/1000602108019622059/unknown.png'/>
+
 
 ## Funções
 

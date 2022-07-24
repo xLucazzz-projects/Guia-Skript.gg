@@ -151,6 +151,18 @@
 
 ##
 
+<p align="center"><img src="https://cdn.discordapp.com/attachments/916289981650194432/1000807984374497331/unknown.png"/></p>
+
+  - `Primary Color` Troca a cor primária do veículo
+  - `Secondary Color` Troca a cor secundária do veículo
+  - `Paint Type` Altera o tipo de pintura do veículo
+  - `Wheel Type` Altera o tipo/categoria da roda
+  - `Wheel Number` Altera o modelo da roda
+  - `Window Tint` Altera o fumê da janela
+  - `Apply Modifications` Aplica as modificações realizadas
+
+##
+
 <p align="center"><img src="https://cdn.discordapp.com/attachments/916289981650194432/1000602607884185600/unknown.png"/></p>
 
   - `Unload` Desinjeta o Cheat do Jogo

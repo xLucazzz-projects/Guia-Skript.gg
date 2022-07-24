@@ -49,6 +49,28 @@
 
 ##
 
+<p align="center"><img src="https://cdn.discordapp.com/attachments/916289981650194432/1000808787575312444/unknown.png"/></p>
+
+  - `Only Alive` O Wallhack só funciona em jogadores vivos
+  - `Box Style` Muda o visual da caixa que fica em volta do player
+  - `Box Rouding` Muda o arrendodamento da borda
+  - `Healthbar Style` Muda o visual da barra de vida
+  - `Armorbar Style` Muda o visual da barra de colete
+  - `Show Observers` Mostra os players que estão em Noclip/Freecam e te observando
+  - `Highlight Spectators` Altera a cor dos players que estão em Noclip/Freecam
+  - `Skeleton` Gera um esqueleto nos players
+  - `Visible Color` Cor dos players que estão em sua tela (visíveis)
+  - `Invisible Color` Cor dos players que não estão em sua tela (fora da visão, invisíveis)
+  - `Name` Mostra o nome dos players 
+  - `Weapon` Mostra a arma equipada
+  - `Weapon Color` Altera a cor da arma equipada
+  - `Distance` Mostra a distância entre o player e o usuário
+  - `Distance Color` Altera a cor do texto da distância
+  - `Transparência` Tipo de transparência do Wallhack
+  - `Render Distance` Distância que o player precisa estar para o Wallhack funcionar
+
+##
+
 <p align="center"><img src="https://cdn.discordapp.com/attachments/916289981650194432/1000799126356758608/unknown.png"/></p>
 
   - `Anti Headshot` Faz com que o usuário tome diversos tiros na cabeça sem morrer 

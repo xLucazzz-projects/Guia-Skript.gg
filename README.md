@@ -42,6 +42,8 @@
   - `Miss Chance` Chance de erro do SilentAim e do MagicBullet
   - `UberZoom` Dá zoom automático em usuários que estão longe
 
+##
+
 <p align="center"><img src="https://cdn.discordapp.com/attachments/916289981650194432/1000608835578372187/unknown.png"/></p>
 
   - `True Godmode` Faz com que o veículo fique indestrutível 
@@ -62,12 +64,16 @@
   - `Spoof Vehicle Velocity` Altera a velocidade do veículo para enganar scripts
   - `No Collision` Faz com que o veículo não colida com objetos
 
+##
+
 <p align="center"><img src="https://cdn.discordapp.com/attachments/916289981650194432/1000602607884185600/unknown.png"/></p>
 
   - `Unload` Desinjeta o Cheat do Jogo
   - `CrossHair` Cria uma mira no centro da tela
   - `Show Field of View` Mostra a área em que o AimBot atua
   - `Dark Theme` Ativa o modo escuro
+
+##
 
 <p align="center"><img src="https://cdn.discordapp.com/attachments/916289981650194432/1000603625392984095/unknown.png"/></p>
 
@@ -78,6 +84,8 @@
   - `Import From Clipboard` Copia a configuração que está na sua área de transferência
   - `Export From Clipboard` Gera um código Base64 da sua configuração que pode ser utilizado por outros usuários
   - `Refresh` Atualiza a lista de configurações
+
+##
 
 <p align="center"><img src="https://cdn.discordapp.com/attachments/916289981650194432/1000605092149477416/unknown.png"/></p>
 

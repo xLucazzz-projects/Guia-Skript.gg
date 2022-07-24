@@ -95,4 +95,4 @@
 
 ##
 
-<p align="center">Feito com ❤️ por [xLucazzz](https://github.com/xLucazzz-projects/)</p>
+<p align="center">Feito com ❤️ por xLucazzz</p>

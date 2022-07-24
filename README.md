@@ -49,12 +49,43 @@
 
 ##
 
+<p align="center"><img src="https://cdn.discordapp.com/attachments/916289981650194432/1000799126356758608/unknown.png"/></p>
+
+  - `Anti Headshot` Faz com que o usuário tome diversos tiros na cabeça sem morrer 
+  - `True Godmode` Faz com que o usuário fique imortal 
+  - `Demi Godmode` Regenera a vida do usuário lentamente 
+  - `Regenerate Armor` Regenera/Spawna colete 
+  - `Force Wanted Level` Força o número de estrelas escolhido (procurado pela polícia) 
+  - `Change Player Speed` Altera a velocidade do usuário
+  - `No Ragdoll` Faz com que o usuário não realize animações, como: cair
+  - `Infinite Stamina` Faz com que o usuário tenha estamina infinita (nunca se cansa) 
+  - `Invisible` Faz com que o usuário fique invisível (some no /wall) 
+  - `Suicide` Faz com que o usuário morra 
+  - `Heal` Faz com que seja regenerada a vida e/ou colete 
+  - `Freecam` Ativa o modo câmera livre para voar livremente pelo mapa
+  - `Freecam Location Spoofer` Altera sua localização para enganar AntiCheats
+  - `Spinbot` Faz com que o usuário fique [girando](https://cdn.discordapp.com/attachments/916289981650194432/1000800668220670032/GTA5_EQJIJNJ7Ur.webm) para outros players (HvH) 
+  - `Noclip` Ativa a invisibilidade, permitindo atravessar objetos e voar pelo mapa
+  - `Noclip Style` Altera o modo do Noclip (Controlado pelo teclado WASD ou somente pelo Mouse)
+  - `Noclip Keep Velocity` Faz com que o Noclip fique sempre na mesma velocidade
+  - `Slow Noclip` Faz com que o Noclip se movimente de forma lenta (Ao pressionar LSHIFT não irá mudar a velocidade)
+
+##
+
+<p align="center"><img src="https://cdn.discordapp.com/attachments/916289981650194432/1000801464203100241/unknown.png"/></p>
+
+  - `Give Weapon` Spawna a arma selecionada para o usuário 
+  - `Add Attachment` Adiciona o componente selecionado na arma equipada
+  - `Remove Attachment` Remove o componente selecionado na arma equipada
+
+##
+
 <p align="center"><img src="https://cdn.discordapp.com/attachments/916289981650194432/1000608835578372187/unknown.png"/></p>
 
   - `True Godmode` Faz com que o veículo fique indestrutível 
   - `Demi GodMode` Repara o veículo lentamente
   - `Force Engine On` Faz com que o veículo sempre fique com o motor ligado
-  - `SeatBelt` Faz com que o player nunca saia do veículo
+  - `SeatBelt` Faz com que o usuário nunca saia do veículo
   - `Unlock Vehicle` Destranca o veículo mais próximo
   - `Repair Vehicle` Repara o veículo mais próximo
   - `Extra Grip` Aumenta a aderência das rodas do veículo

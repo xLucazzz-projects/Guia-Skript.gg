@@ -26,7 +26,7 @@
   - `Target Dead` Permite que o AimBot funcione em alvos mortos
   - `Target Invencible` Permite que o AimBot funcione em alvos imortais (godmode)
   - `Target Combatrolling` Permite que o AimBot funcione em alvos durante o rolamento tático
-  - `Silent Aimbot` Faz com que os tiros façam curva até a cabeça do alvo [Clique Aqui para Visualizar](https://www.youtube.com/watch?v=_Zt_fsJ_EP4)
+  - `Silent Aimbot` Faz com que os tiros façam curva até a cabeça do alvo [Clique Aqui para Visualizar](https://www.youtube.com/watch?v=DLmB8EcYbb0)
   - `Magic Bullet` Faz com que os tiros atravessem estruturas sólidas
   - `Only Visible` Permite que o AimBot funcione apenas em alvos visíveis
   - `Respect Max Range` Permite que o AimBot funcione apenas na distância em que os tiros conseguem atingir o alvo

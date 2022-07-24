@@ -5,7 +5,8 @@
 
 1º - Faça o Download do Loader - [Clique Aqui Para Baixar] (https://skript.gg)
 
-2º - Formate um Dispositivo USB (Pendrive) em FAT-32 | [Clique Aqui Para Visualizar](https://cdn.discordapp.com/attachments/916289981650194432/1000595210054684692/Sem_titulo.png)
+2º - Formate um Dispositivo USB (Pendrive) em FAT-32
+<img src='https://cdn.discordapp.com/attachments/916289981650194432/1000595210054684692/Sem_titulo.png'/>
 
 3º - Execute o Loader Dentro do Pendrive
 

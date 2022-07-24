@@ -20,7 +20,7 @@
 
 <p align="center"><img src='https://cdn.discordapp.com/attachments/916289981650194432/1000602108019622059/unknown.png'/></p>
 
-5º Selecione a assinatura do GTA V
+5º Selecione a assinatura do GTA V e clique em `Load`
 
 6º Abra o jogo em `48% Waiting for Game`
 

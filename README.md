@@ -16,7 +16,7 @@
 ## Funções
 
 - `Aim Assistance`
-<center><img src="https://cdn.discordapp.com/attachments/916289981650194432/1000599148480966666/aim.png"/></center>
+<p align="center"><img src="https://cdn.discordapp.com/attachments/916289981650194432/1000599148480966666/aim.png"/></p>
 
   - `Prediction`: Irá melhorar a precisão para alvos em movimento
   - `Target Players`: Permite que o AimBot funcione em players

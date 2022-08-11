@@ -184,7 +184,7 @@
   - `Rocket Boost` Dá um ultra boost ao pressionar a tecla "E"
   - `Pular` Faz com o que o carro pule ao pressionar a tecla "E"
   - `Paraquedas` Ativa um paraquedas enquanto o veículo estiver caindo ao pressionar a tecla "BARRA DE ESPAÇO"
-  - `Ramming` Aumenta o dano ao colidir (?)
+  - `Ramming` (?)
   - `Luz Interior Vermelha` Adiciona uma luz vermelha ao interior do veículo
   - `Torque Extra` Aumenta o torque do veículo
   - `Teleportar para o Veículo` Teleporta o jogador ao veículo mais próximo
